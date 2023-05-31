@@ -1,2 +1,2 @@
 # minecraft-files
-Files for a PowerNukkitX installation
+Configuration files, plugins, and resource packs for a PowerNukkitX Minecraft Bedrock server.
